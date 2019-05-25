@@ -8,16 +8,13 @@ Latest configuration to start electron by webpack in typescript
 npm i
 
 # start webpack with hot update
-```sh
 npm run start
-```
-
 
 # start electron
-```sh
 npm run electron
+# if want electron with hot update, start webpack, then start electron.
 ```
-if want electron with hot update, start webpack, then start electron.
+
 
 ## PS
 通过网上教程配了很久，完美将electron, webpack, typescript搭配在一起 ：）
