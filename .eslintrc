@@ -1,0 +1,20 @@
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es6": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
+  "rules": {
+    "indent": ["error", 2],
+    "no-mixed-spaces-and-tabs": "error"
+    "camelcase": "error",
+    "eqeqeq": "warn",
+    "curly": "error",
+    "no-undef": "error",
+    "no-unused-vars": "warn",
+    "max-params": "warn"
+  }
+}
