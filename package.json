@@ -20,7 +20,7 @@
     "@babel/core": "^7.4.4",
     "@babel/preset-env": "^7.4.4",
     "babel-loader": "^8.0.6",
-    "electron": "^5.0.1",
+    "electron": "^9.1.0",
     "electron-reload": "^1.4.0",
     "ts-loader": "^6.0.0",
     "typescript": "^3.4.5",
